@@ -1,1 +1,32 @@
-h
+Subsidio de Gasolina y Sistema Bancario
+👥 Integrantes del Equipo
+*Mateo Josué Rodríguez Quevedo 
+
+*Alexis Alexander Chasi Rochina
+
+*Henry Paul Tonato Cajamarca
+
+📚 Curso y Asignatura
+Institución: Escuela Politécnica Nacional (ESFOT)
+
+Carrera: Desarrollo de Software - 3er Semestre
+
+Asignatura: Programación Orientada a Objetos (POO)
+
+Docente: MSc. Yadira Franco
+
+Período Académico: 2026-A
+
+📝 Descripción Breve del Ejercicio
+Este repositorio contiene la resolución de dos ejercicios prácticos desarrollados en Java para aplicar los pilares de la Programación Orientada a Objetos (POO):
+
+Parte 1 - Sistema de Subsidio de Gasolina: Implementación de la clase SolicitanteSubsidio utilizando encapsulamiento, constructores, sobrecarga de métodos (calcularConsumoMensual) y validación de reglas de negocio para determinar si un ciudadano ecuatoriano aplica al subsidio.
+
+Parte 2 - Sistema Bancario (Reto): Diseño de un sistema de gestión de cuentas mediante una clase abstracta CuentaBancaria. Se aplicó herencia y polimorfismo para manejar distintos comportamientos en CuentaAhorros, CuentaCorriente y CuentaInversion, calculando intereses dinámicos y gestionando sobregiros sin el uso de condicionales de tipo (instanceof).
+
+Distribución de Aportes y Responsabilidades del Equipo
+Mateo Josué Rodríguez Quevedo: Estructuración de la arquitectura del proyecto, implementación de Herencia y Polimorfismo en el Sistema Bancario, y despliegue del código en el repositorio GitHub.
+
+Alexis Alexander Chasi Rochina: Desarrollo de la clase SolicitanteSubsidio, aplicación de reglas de encapsulamiento, constructores y lógica condicional estructurada para la Parte 1.
+
+Henry Paul Tonato Cajamarca: Pruebas de escritorio, validación de datos en los métodos setters (ingresos y vehículos), control de sobregiros bancarios y redacción de la documentación técnica (README.md).
